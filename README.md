@@ -1,6 +1,5 @@
-# PiIPGzDD
-Projekt i implementacja prototypu gry z drzewami decyzyjnymi,
-zrealizowany z użyciem silnika Unreal Engine 4 jako praca inżynierska.
+# Bachelor thesis
+Design and implementation of a game prototype with decision trees
 
 #Credits
 Ryan Laley Shooter fps AI
